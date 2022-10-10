@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/steve/project/Test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/steve/project/Demo-Test/Demo_Test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/Users/steve/.gradle/caches/transforms-3/1a85dbc2ed7bdeec09f3e4bcff9718b9/transformed/media-1.0.0/res/values-v21/values-v21.xml",

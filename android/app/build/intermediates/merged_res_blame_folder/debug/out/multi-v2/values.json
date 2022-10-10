@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/steve/project/Test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/steve/project/Demo-Test/Demo_Test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/steve/.gradle/caches/transforms-3/3f5afa1325318e3a99360dab3f154e3d/transformed/material-1.2.1/res/values/values.xml",
@@ -90,6 +90,25 @@
                         "startOffsets": "49014,49083",
                         "endColumns": "68,56",
                         "endOffsets": "49078,49135"
+                    }
+                },
+                {
+                    "source": "/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "267"
+                    },
+                    "to": {
+                        "startLines": "1119",
+                        "startColumns": "4",
+                        "startOffsets": "77083",
+                        "endLines": "1122",
+                        "endColumns": "12",
+                        "endOffsets": "77296"
                     }
                 },
                 {
@@ -184,6 +203,23 @@
                     }
                 },
                 {
+                    "source": "/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "41",
+                        "endOffsets": "53"
+                    },
+                    "to": {
+                        "startLines": "940",
+                        "startColumns": "4",
+                        "startOffsets": "56207",
+                        "endColumns": "41",
+                        "endOffsets": "56244"
+                    }
+                },
+                {
                     "source": "/Users/steve/.gradle/caches/transforms-3/e422733001cc589299aff962287b3d9f/transformed/jetified-viewpager2-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -200,23 +236,6 @@
                         "endLines": "8037",
                         "endColumns": "24",
                         "endOffsets": "500188"
-                    }
-                },
-                {
-                    "source": "/Users/steve/project/Test/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "156,262",
-                        "endColumns": "63,68",
-                        "endOffsets": "215,326"
-                    },
-                    "to": {
-                        "startLines": "901,902",
-                        "startColumns": "4,4",
-                        "startOffsets": "53448,53512",
-                        "endColumns": "63,68",
-                        "endOffsets": "53507,53576"
                     }
                 },
                 {
@@ -274,6 +293,23 @@
                         "endLines": "820,844,880,6426,6430",
                         "endColumns": "56,64,63,24,24",
                         "endOffsets": "49192,50329,52189,417229,417378"
+                    }
+                },
+                {
+                    "source": "/Users/steve/project/Demo-Test/Demo_Test/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,262",
+                        "endColumns": "63,68",
+                        "endOffsets": "215,326"
+                    },
+                    "to": {
+                        "startLines": "901,902",
+                        "startColumns": "4,4",
+                        "startOffsets": "53448,53512",
+                        "endColumns": "63,68",
+                        "endOffsets": "53507,53576"
                     }
                 },
                 {
@@ -401,42 +437,6 @@
                         "endLines": "318,319,776,809,810,811,812,813,825,833,834,835,838,875,876,939,943,944,945,946,947,948,949,950,951,952,953,954,955,956,957,958,959,960,961,962,963,964,965,966,967,968,969,970,971,972,981,1021,1025,1026,1028,1031,1032,1033,1077,1078,1079,1080,1082,1083,1084,1085,1086,1087,1088,1089,1091,1092,1093,1094,1106,1110,3014,3017,3029,3033,3369,3372,3619,3678,3687,3694,3723,3726,3729,3829,3835,4854",
                         "endColumns": "62,62,50,47,48,47,48,48,40,42,42,41,42,53,47,72,122,95,88,107,116,119,119,101,102,110,106,102,110,168,167,116,109,114,112,155,107,112,90,110,168,97,126,124,94,106,79,75,72,86,70,70,77,79,85,83,71,81,83,76,86,84,78,74,72,88,76,77,72,77,10,10,12,12,10,10,12,12,25,34,10,10,10,10,10,12,12,10",
                         "endOffsets": "16261,16324,46651,48609,48658,48706,48755,48804,49420,49807,49850,49892,50031,51930,51978,56202,56648,56744,56833,56941,57058,57178,57298,57400,57503,57614,57721,57824,57935,58104,58272,58389,58499,58614,58727,58883,58991,59104,59195,59306,59475,59573,59700,59825,59920,60027,60688,65341,65791,65878,66008,66431,66509,66589,74127,74211,74283,74365,74502,74579,74666,74751,74830,74905,74978,75067,75215,75293,75366,75444,76268,76516,201129,201320,201840,202046,224803,224992,242508,246266,246804,247222,248742,248919,249098,257431,257796,323553"
-                    }
-                },
-                {
-                    "source": "/Users/steve/project/Test/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "267"
-                    },
-                    "to": {
-                        "startLines": "1119",
-                        "startColumns": "4",
-                        "startOffsets": "77083",
-                        "endLines": "1122",
-                        "endColumns": "12",
-                        "endOffsets": "77296"
-                    }
-                },
-                {
-                    "source": "/Users/steve/project/Test/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "41",
-                        "endOffsets": "53"
-                    },
-                    "to": {
-                        "startLines": "940",
-                        "startColumns": "4",
-                        "startOffsets": "56207",
-                        "endColumns": "41",
-                        "endOffsets": "56244"
                     }
                 },
                 {

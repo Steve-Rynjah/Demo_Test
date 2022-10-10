@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/steve/project/Test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "/Users/steve/project/Demo-Test/Demo_Test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
                     "source": "/Users/steve/.gradle/caches/transforms-3/9242224888945f315dd3e448f38a22bc/transformed/core-1.6.0/res/values-fr-rCA/values-fr-rCA.xml",

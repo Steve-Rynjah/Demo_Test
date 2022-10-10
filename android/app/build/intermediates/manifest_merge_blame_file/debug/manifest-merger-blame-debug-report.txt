@@ -9,31 +9,31 @@
 9        android:targetSdkVersion="31" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/Users/steve/project/Test/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/Users/steve/project/Test/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:4:22-64
+12-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:4:22-64
 13
 14    <queries>
-14-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:6:5-12:11
+14-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:6:5-12:11
 15        <intent>
-15-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:7:3-10:12
+15-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:7:3-10:12
 16            <action android:name="android.intent.action.VIEW" />
-16-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:8:5-57
-16-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:8:13-54
+16-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:8:5-57
+16-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:8:13-54
 17
 18            <data
-18-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:9:5-52
+18-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:9:5-52
 19                android:host="pay"
-19-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:9:32-50
+19-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:9:32-50
 20                android:scheme="upi" />
-20-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:9:11-31
+20-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:9:11-31
 21        </intent>
 22
 23        <package android:name="com.android.chrome" />
-23-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:11:3-48
-23-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:11:12-45
+23-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:11:3-48
+23-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:11:12-45
 24    </queries>
 25
 26    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -44,64 +44,64 @@
 27-->[com.cashfree.pg:android-sdk:1.7.28] /Users/steve/.gradle/caches/transforms-3/7145a58bfcb261b66c0ef5f23e182014/transformed/jetified-android-sdk-1.7.28/AndroidManifest.xml:11:22-76
 28
 29    <application
-29-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:14:5-33:19
+29-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:14:5-33:19
 30        android:name="com.test.MainApplication"
-30-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:15:7-38
+30-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:15:7-38
 31        android:allowBackup="false"
-31-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:19:7-34
+31-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:19:7-34
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 32-->[androidx.core:core:1.6.0] /Users/steve/.gradle/caches/transforms-3/9242224888945f315dd3e448f38a22bc/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 33        android:debuggable="true"
 34        android:icon="@mipmap/ic_launcher"
-34-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:17:7-41
+34-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:17:7-41
 35        android:label="@string/app_name"
-35-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:16:7-39
+35-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:16:7-39
 36        android:roundIcon="@mipmap/ic_launcher_round"
-36-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:18:7-52
+36-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:18:7-52
 37        android:supportsRtl="true"
 37-->[com.cashfree.pg:android-sdk:1.7.28] /Users/steve/.gradle/caches/transforms-3/7145a58bfcb261b66c0ef5f23e182014/transformed/jetified-android-sdk-1.7.28/AndroidManifest.xml:20:9-35
 38        android:theme="@style/AppTheme"
-38-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:20:7-38
+38-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:20:7-38
 39        android:usesCleartextTraffic="true" >
-39-->/Users/steve/project/Test/android/app/src/debug/AndroidManifest.xml:8:9-44
+39-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/debug/AndroidManifest.xml:8:9-44
 40        <activity
-40-->/Users/steve/project/Test/android/app/src/debug/AndroidManifest.xml:11:9-111
+40-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/debug/AndroidManifest.xml:11:9-111
 41            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-41-->/Users/steve/project/Test/android/app/src/debug/AndroidManifest.xml:11:19-83
+41-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/debug/AndroidManifest.xml:11:19-83
 42            android:exported="false" />
-42-->/Users/steve/project/Test/android/app/src/debug/AndroidManifest.xml:11:84-108
+42-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/debug/AndroidManifest.xml:11:84-108
 43        <activity
-43-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:21:7-32:18
+43-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:21:7-32:18
 44            android:name="com.test.MainActivity"
-44-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:22:9-37
+44-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:22:9-37
 45            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-45-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:24:9-118
+45-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:24:9-118
 46            android:exported="true"
-46-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:27:9-32
+46-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:27:9-32
 47            android:label="@string/app_name"
-47-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:23:9-41
+47-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:23:9-41
 48            android:launchMode="singleTask"
-48-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:25:9-40
+48-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:25:9-40
 49            android:windowSoftInputMode="adjustResize" >
-49-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:26:9-51
+49-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:26:9-51
 50            <intent-filter>
-50-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:28:9-31:25
+50-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:28:9-31:25
 51                <action android:name="android.intent.action.MAIN" />
-51-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:29:13-65
-51-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:29:21-62
+51-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:29:13-65
+51-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:29:21-62
 52
 53                <category android:name="android.intent.category.LAUNCHER" />
-53-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:30:13-73
-53-->/Users/steve/project/Test/android/app/src/main/AndroidManifest.xml:30:23-70
+53-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:30:13-73
+53-->/Users/steve/project/Demo-Test/Demo_Test/android/app/src/main/AndroidManifest.xml:30:23-70
 54            </intent-filter>
 55        </activity>
 56
 57        <meta-data
-57-->[:react-native-pg-react-native-sdk] /Users/steve/project/Test/node_modules/react-native-pg-react-native-sdk/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:69
+57-->[:react-native-pg-react-native-sdk] /Users/steve/project/Demo-Test/Demo_Test/node_modules/react-native-pg-react-native-sdk/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:69
 58            android:name="com.google.android.gms.version"
-58-->[:react-native-pg-react-native-sdk] /Users/steve/project/Test/node_modules/react-native-pg-react-native-sdk/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-58
+58-->[:react-native-pg-react-native-sdk] /Users/steve/project/Demo-Test/Demo_Test/node_modules/react-native-pg-react-native-sdk/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-58
 59            android:value="@integer/google_play_services_version" />
-59-->[:react-native-pg-react-native-sdk] /Users/steve/project/Test/node_modules/react-native-pg-react-native-sdk/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-66
+59-->[:react-native-pg-react-native-sdk] /Users/steve/project/Demo-Test/Demo_Test/node_modules/react-native-pg-react-native-sdk/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-66
 60
 61        <activity
 61-->[com.cashfree.pg:android-sdk:1.7.28] /Users/steve/.gradle/caches/transforms-3/7145a58bfcb261b66c0ef5f23e182014/transformed/jetified-android-sdk-1.7.28/AndroidManifest.xml:22:9-25:72
